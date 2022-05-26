@@ -6,11 +6,7 @@ commands to run and description:
 
 Note: add all the commands in terminal or console.
 
---> node app.js add --title="a" --body="b" -> adds the note , if command is not properly entered then throws the error.
---> node app.js list -> displays the list the existing notes title in console.
---> node app.js read --title="nodejs" -> Reads the note content by the tittle entered. value of title should be the existing title of notes.
-otherwise it throw NOTE NOT FOUND
---> node app.js remove --title="a" -> Removes the note with a given tittle
+--> node app.js add --title="a" --body="b" -> adds the note , if command is not properly entered then throws the error. --> node app.js list -> displays the list the existing notes title in console. --> node app.js read --title="nodejs" -> Reads the note content by the tittle entered. value of title should be the existing title of notes. otherwise it throw NOTE NOT FOUND --> node app.js remove --title="a" -> Removes the note with a given tittle
 
 
 Note: if we run the command without providing the required properties for add, read or remove commands.
