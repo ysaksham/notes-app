@@ -1,9 +1,6 @@
 Dependencies: yargs - npm install yargs chalk - npm install chalk@2.4.2
 
-yargs - Yargs helps to build interactive command line tools, by parsing arguments and generating an elegant user interface.
-chalk - It helps to customize the color of the output of the command-line output It helps to improve the quality of the output 
-by providing several color options like for warning message red color and many more
-
+yargs - Yargs helps to build interactive command line tools, by parsing arguments and generating an elegant user interface.chalk - It helps to customize the color of the output of the command-line output It helps to improve the quality of the output by providing several color options like for warning message red color and many more
 
 commands to run and description:
 
